@@ -1,0 +1,36 @@
+.Pyramid{
+    fill:none;
+    stroke-width:0;
+}
+
+.Pyramid-container{
+    padding: 25px;
+    margin: 0 auto;
+}
+
+.UI-tests{
+    fill:#682770;
+    transition: 0.5s;
+}
+
+.UI-tests:hover{
+    fill:#772A47;
+}
+
+.Int-tests{
+    fill:#B5A4BF;
+    transition: 0.5s;
+}
+
+.Int-tests:hover{
+    fill:#6464A2;
+}
+
+.Unit-tests{
+    fill:#3A1A48;
+    transition: 0.5s;
+}
+
+.Unit-tests:hover{
+    fill:#69B08E;
+}
